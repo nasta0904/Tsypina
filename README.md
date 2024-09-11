@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <body bgcolor=yellow>
+  <body bgcolor=yellow text=blue>
     Цвет текста красный
   </body>
 </html>
