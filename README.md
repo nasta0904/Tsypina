@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <body bgcolor=yellow color=red bottommargin=50 leftmargin=50 rightmargin=20 topmargin=20>
+  <body bgcolor=yellow>
     Цвет текста красный
 <body>
 </html>
