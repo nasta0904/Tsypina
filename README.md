@@ -2,5 +2,5 @@
 <html>
   <body bgcolor=yellow>
     Цвет текста красный
-<body>
+  </body>
 </html>
